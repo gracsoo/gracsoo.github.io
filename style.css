@@ -1,0 +1,38 @@
+*{
+    font-family: chalkduster;
+    margin: 20px;
+    /* padding: 20px; */
+}
+
+body{
+    background-color: rgb(216, 250, 255);
+}
+
+h1{
+    font-size: 70px;
+    color: rgb(20, 122, 255);
+}
+
+p{
+    font-size: 20px;
+    color: rgb(20, 122, 255);
+}
+
+table, th, td{
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+th, td {
+    background-color: rgb(137, 202, 255);
+    padding: 10px;
+}
+
+a{
+    padding: 10px;
+}
+
+.main-content{
+    text-align: center;
+}
