@@ -1,11 +1,11 @@
 *{
     font-family: chalkduster;
     margin: 20px;
-    /* padding: 20px; */
 }
 
 body{
     background-color: rgb(216, 250, 255);
+    text-align: center;
 }
 
 h1{
@@ -31,8 +31,4 @@ th, td {
 
 a{
     padding: 10px;
-}
-
-.main-content{
-    text-align: center;
 }
